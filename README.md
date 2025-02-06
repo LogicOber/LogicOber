@@ -17,14 +17,13 @@
 <br>
 
 <div align="center" style="margin-top: 20px;">
-  <!-- Contact & Social Links -->
   <a href="https://github.com/logicober" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-logicober-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-  <a href="https://www.linkedin.com/in/lysonober" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-lysonober-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn">
-  </a>
   <a href="https://x.com/lyson_ober" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-lyson__ober-1DA1F2?style=for-the-badge&logo=X&logoColor=white" alt="X">
+  </a>
+  <a href="https://www.linkedin.com/in/lysonober" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-lysonober-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn">
   </a>
 </div>
